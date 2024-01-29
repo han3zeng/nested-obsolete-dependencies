@@ -1,6 +1,6 @@
 {
   "name": "nested-obsolete-dependencies",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Ths repo is for testing renovate constraintsFiltering",
   "main": "index.js",
   "scripts": {
