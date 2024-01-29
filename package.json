@@ -1,6 +1,6 @@
 {
   "name": "nested-obsolete-dependencies",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Ths repo is for testing renovate constraintsFiltering",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/han3zeng/nested-obsolete-dependencies/issues"
   },
-  "homepage": "https://github.com/han3zeng/nested-obsolete-dependencies#readme"
+  "homepage": "https://github.com/han3zeng/nested-obsolete-dependencies#readme",
+  "dependencies": {
+    "@luxass/strip-json-comments": "^1.2.0"
+  }
 }
